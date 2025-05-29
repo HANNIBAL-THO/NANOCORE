@@ -1,6 +1,6 @@
 # NANOCORE RAT AUTIMATIZADO
 > **ADVERTENCIA**: Este es un proyecto puramente educativo para estudiar conceptos de ciberseguridad.
-[![Discord](https://img.shields.io/discord/123456789?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/tfRuSC52Da)
+[![Discord](https://img.shields.io/badge/Discord-Online-7289DA?logo=discord&logoColor=white)](https://discord.gg/tfRuSC52Da)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)]([https://youtube.com/@tucanal](https://www.youtube.com/@TODO-HACK-OFFICIAL))
 
 ![Interface Demo](/img.png)
